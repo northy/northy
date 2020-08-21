@@ -35,6 +35,7 @@
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kanji: Origins and how to learn them](https://blog.northy.xyz/2020/08/20/kanji-origins-and-how-to-learn-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
