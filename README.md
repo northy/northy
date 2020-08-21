@@ -39,18 +39,18 @@
 
 ---
 
-<details>
+<details open>
   <summary>🚀 Recent Github Activity</summary>
-</details>
-  
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#30](https://github.com//djfun/mc-map-item-tool/issues/30) in [djfun/mc-map-item-tool](https://github.com//djfun/mc-map-item-tool)
 2. 🗣 Commented on [#38](https://github.com//djfun/mc-map-item-tool/issues/38) in [djfun/mc-map-item-tool](https://github.com//djfun/mc-map-item-tool)
 3. 💪 Opened PR [#51](https://github.com//djfun/mc-map-item-tool/pull/51) in [djfun/mc-map-item-tool](https://github.com//djfun/mc-map-item-tool)
 <!--END_SECTION:activity-->
-
-<details>
-  <summary>👀 Github Stats</summary>
 </details>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=northy&show_icons=true&theme=dark)](https://github.com/northy)
+<details open>
+  <summary>👀 Github Stats</summary>
+
+  [![northy's github stats](https://github-readme-stats.vercel.app/api?username=northy&show_icons=true)](https://github.com/northy)
+</details>
