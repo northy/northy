@@ -1,6 +1,8 @@
 [![Website](https://img.shields.io/website?label=homepage&style=for-the-badge&url=https%3A%2F%2Fnorthy.xyz)](https://northy.xyz)
 [![Website](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https%3A%2F%2Fblog.northy.xyz)](https://blog.northy.xyz)
 
+![Profile views](https://gpvc.arturio.dev/northy)
+
 ---
 
 ### Hello, I'm [northy](https://northy.xyz/)
@@ -53,5 +55,6 @@
 <details open>
   <summary>👀 Github Stats</summary>
 
-  [![northy's github stats](https://github-readme-stats.vercel.app/api?username=northy&show_icons=true)](https://github.com/northy)
+  ![northy's Github Stats](https://github-readme-stats.vercel.app/api?username=northy&show_icons=true&count_private=true&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northy)
 </details>
