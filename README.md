@@ -58,5 +58,5 @@
   <summary>👀 Github Stats</summary>
 
   ![northy's Github Stats](https://github-readme-stats.vercel.app/api?username=northy&show_icons=true&count_private=true&include_all_commits=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northy)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=northy)
 </details>
