@@ -19,6 +19,7 @@
 ## Languages and tools:
 <img align="left" alt="C" title="C" width="25px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="C++" title="C++" width="25px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="left" alt="Java" title="Java" width="25px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Python" title="Python" width="25px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="Flask" title="Flask" width="25px" src="https://simpleicons.org/icons/flask.svg" />
 <img align="left" alt="Jekyll" title="Jekyll" width="25px" src="https://simpleicons.org/icons/jekyll.svg" />
