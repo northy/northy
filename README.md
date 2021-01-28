@@ -47,7 +47,7 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ccuffs/ideias/issues/8) in [ccuffs/ideias](https://github.com/ccuffs/ideias)
+1. 🎉 Merged PR [#4](https://github.com/northy/PergaBot/pull/4) in [northy/PergaBot](https://github.com/northy/PergaBot)
 2. 🗣 Commented on [#18](https://github.com/jamesgeorge007/github-activity-readme/issues/18) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 3. 💪 Opened PR [#8](https://github.com/hzla/Remnant-World-Analyzer/pull/8) in [hzla/Remnant-World-Analyzer](https://github.com/hzla/Remnant-World-Analyzer)
 4. 🗣 Commented on [#30](https://github.com/djfun/mc-map-item-tool/issues/30) in [djfun/mc-map-item-tool](https://github.com/djfun/mc-map-item-tool)
