@@ -49,11 +49,11 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/jardeleko/Ryze/issues/2) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-2. ❗️ Opened issue [#1](https://github.com/jardeleko/Ryze/issues/1) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-3. 🎉 Merged PR [#4](https://github.com/northy/PergaBot/pull/4) in [northy/PergaBot](https://github.com/northy/PergaBot)
-4. 🗣 Commented on [#30](https://github.com/djfun/mc-map-item-tool/issues/30) in [djfun/mc-map-item-tool](https://github.com/djfun/mc-map-item-tool)
-5. 🗣 Commented on [#38](https://github.com/djfun/mc-map-item-tool/issues/38) in [djfun/mc-map-item-tool](https://github.com/djfun/mc-map-item-tool)
+1. ❗️ Reopened issue [#3](https://github.com/jardeleko/Ryze/issues/3) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+2. ❗️ Opened issue [#11](https://github.com/jardeleko/Ryze/issues/11) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+3. ❗️ Opened issue [#9](https://github.com/jardeleko/Ryze/issues/9) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+4. ❗️ Opened issue [#5](https://github.com/jardeleko/Ryze/issues/5) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+5. ❗️ Opened issue [#2](https://github.com/jardeleko/Ryze/issues/2) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
 <!--END_SECTION:activity-->
 </details>
 
