@@ -49,9 +49,9 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/northy/PergaBot/pull/4) in [northy/PergaBot](https://github.com/northy/PergaBot)
-2. 🗣 Commented on [#18](https://github.com/jamesgeorge007/github-activity-readme/issues/18) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#8](https://github.com/hzla/Remnant-World-Analyzer/pull/8) in [hzla/Remnant-World-Analyzer](https://github.com/hzla/Remnant-World-Analyzer)
+1. ❗️ Opened issue [#2](https://github.com/jardeleko/Ryze/issues/2) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+2. ❗️ Opened issue [#1](https://github.com/jardeleko/Ryze/issues/1) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+3. 🎉 Merged PR [#4](https://github.com/northy/PergaBot/pull/4) in [northy/PergaBot](https://github.com/northy/PergaBot)
 4. 🗣 Commented on [#30](https://github.com/djfun/mc-map-item-tool/issues/30) in [djfun/mc-map-item-tool](https://github.com/djfun/mc-map-item-tool)
 5. 🗣 Commented on [#38](https://github.com/djfun/mc-map-item-tool/issues/38) in [djfun/mc-map-item-tool](https://github.com/djfun/mc-map-item-tool)
 <!--END_SECTION:activity-->
