@@ -49,11 +49,11 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#3](https://github.com/jardeleko/Ryze/issues/3) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-2. ❗️ Opened issue [#11](https://github.com/jardeleko/Ryze/issues/11) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-3. ❗️ Opened issue [#9](https://github.com/jardeleko/Ryze/issues/9) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-4. ❗️ Opened issue [#5](https://github.com/jardeleko/Ryze/issues/5) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-5. ❗️ Opened issue [#2](https://github.com/jardeleko/Ryze/issues/2) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+1. 🎉 Merged PR [#5](https://github.com/northy/PergaBot/pull/5) in [northy/PergaBot](https://github.com/northy/PergaBot)
+2. ❗️ Reopened issue [#3](https://github.com/jardeleko/Ryze/issues/3) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+3. ❗️ Opened issue [#11](https://github.com/jardeleko/Ryze/issues/11) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+4. ❗️ Opened issue [#9](https://github.com/jardeleko/Ryze/issues/9) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+5. ❗️ Opened issue [#5](https://github.com/jardeleko/Ryze/issues/5) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
 <!--END_SECTION:activity-->
 </details>
 
