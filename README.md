@@ -49,11 +49,11 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/jardeleko/Ryze/issues/30) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-2. ❗️ Opened issue [#26](https://github.com/jardeleko/Ryze/issues/26) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-3. ❗️ Opened issue [#23](https://github.com/jardeleko/Ryze/issues/23) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-4. ❗️ Opened issue [#19](https://github.com/jardeleko/Ryze/issues/19) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
-5. ❗️ Opened issue [#17](https://github.com/jardeleko/Ryze/issues/17) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+1. ❗️ Opened issue [#26](https://github.com/thegiovanesilva/ryse/issues/26) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+2. ❗️ Opened issue [#25](https://github.com/thegiovanesilva/ryse/issues/25) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+3. ❗️ Opened issue [#23](https://github.com/thegiovanesilva/ryse/issues/23) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+4. ❗️ Opened issue [#30](https://github.com/jardeleko/Ryze/issues/30) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+5. ❗️ Opened issue [#26](https://github.com/jardeleko/Ryze/issues/26) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
 <!--END_SECTION:activity-->
 </details>
 
