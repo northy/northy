@@ -49,11 +49,11 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/thegiovanesilva/ryse/issues/29) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
-2. ❗️ Opened issue [#26](https://github.com/thegiovanesilva/ryse/issues/26) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
-3. ❗️ Opened issue [#25](https://github.com/thegiovanesilva/ryse/issues/25) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
-4. ❗️ Opened issue [#23](https://github.com/thegiovanesilva/ryse/issues/23) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
-5. ❗️ Opened issue [#30](https://github.com/jardeleko/Ryze/issues/30) in [jardeleko/Ryze](https://github.com/jardeleko/Ryze)
+1. ❗️ Closed issue [#4](https://github.com/thegiovanesilva/ryse/issues/4) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+2. ❗️ Closed issue [#2](https://github.com/thegiovanesilva/ryse/issues/2) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+3. ❗️ Closed issue [#3](https://github.com/thegiovanesilva/ryse/issues/3) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+4. ❗️ Closed issue [#1](https://github.com/thegiovanesilva/ryse/issues/1) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+5. ❗️ Closed issue [#25](https://github.com/thegiovanesilva/ryse/issues/25) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
 <!--END_SECTION:activity-->
 </details>
 
