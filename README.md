@@ -49,8 +49,8 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-2. ❗️ Closed issue [#2](https://github.com/thegiovanesilva/ryse/issues/2) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+1. ❗️ Closed issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
+2. ❗️ Opened issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
 3. ❗️ Closed issue [#3](https://github.com/thegiovanesilva/ryse/issues/3) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
 4. ❗️ Closed issue [#1](https://github.com/thegiovanesilva/ryse/issues/1) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
 5. ❗️ Closed issue [#25](https://github.com/thegiovanesilva/ryse/issues/25) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
