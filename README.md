@@ -38,6 +38,7 @@
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Anki into a japanese learning suite](https://blog.northy.xyz/2021/10/26/anki-suite/)
 - [Studying: Tackling the forgetting curve](https://blog.northy.xyz/2021/02/02/studying-tacking-the-forgetting-curve/)
 - [AWS DVA-C01 Certification Study Notes](https://blog.northy.xyz/2021/01/28/aws-dvac01-certification-study-notes/)
 - [Kanji: Origins and how to learn them](https://blog.northy.xyz/2020/08/20/kanji-origins-and-how-to-learn-them/)
