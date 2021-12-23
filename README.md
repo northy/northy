@@ -50,11 +50,11 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/northy/anki-nihongo-companion/issues/2) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-2. ❗️ Opened issue [#2](https://github.com/northy/anki-nihongo-companion/issues/2) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-3. ❗️ Closed issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-4. ❗️ Opened issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-5. ❗️ Closed issue [#25](https://github.com/thegiovanesilva/ryse/issues/25) in [thegiovanesilva/ryse](https://github.com/thegiovanesilva/ryse)
+1. 🎉 Merged PR [#6](https://github.com/northy/PergaBot/pull/6) in [northy/PergaBot](https://github.com/northy/PergaBot)
+2. ❗️ Closed issue [#2](https://github.com/northy/anki-nihongo-companion/issues/2) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
+3. ❗️ Opened issue [#2](https://github.com/northy/anki-nihongo-companion/issues/2) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
+4. ❗️ Closed issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
+5. ❗️ Opened issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
 <!--END_SECTION:activity-->
 </details>
 
