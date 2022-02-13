@@ -50,11 +50,11 @@
   <summary>🚀 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/northy/PergaBot/pull/6) in [northy/PergaBot](https://github.com/northy/PergaBot)
-2. ❗️ Closed issue [#2](https://github.com/northy/anki-nihongo-companion/issues/2) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-3. ❗️ Opened issue [#2](https://github.com/northy/anki-nihongo-companion/issues/2) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-4. ❗️ Closed issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
-5. ❗️ Opened issue [#1](https://github.com/northy/anki-nihongo-companion/issues/1) in [northy/anki-nihongo-companion](https://github.com/northy/anki-nihongo-companion)
+1. ❗️ Closed issue [#13](https://github.com/northy/router-simulation/issues/13) in [northy/router-simulation](https://github.com/northy/router-simulation)
+2. ❗️ Closed issue [#19](https://github.com/northy/router-simulation/issues/19) in [northy/router-simulation](https://github.com/northy/router-simulation)
+3. ❗️ Closed issue [#18](https://github.com/northy/router-simulation/issues/18) in [northy/router-simulation](https://github.com/northy/router-simulation)
+4. ❗️ Closed issue [#17](https://github.com/northy/router-simulation/issues/17) in [northy/router-simulation](https://github.com/northy/router-simulation)
+5. ❗️ Closed issue [#16](https://github.com/northy/router-simulation/issues/16) in [northy/router-simulation](https://github.com/northy/router-simulation)
 <!--END_SECTION:activity-->
 </details>
 
